@@ -1,4 +1,25 @@
 const ArrayofBlogs = [    
+
+    {
+        ID : '2',
+        Title  : "The Park Kolkata",
+        Author : "The Park Kolkata",
+        Adults : 1,
+        Child: 0,
+        Image1 : "https://r1imghtlak.mmtcdn.com/57663784996211e8bfae0adfcdb46c1c.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=webp",
+        Image2 : "https://theasiacollective.com/wp-content/uploads/2020/03/Taj-Lake-Palace-2.jpg",
+        Image3 : "https://media.cnn.com/api/v1/images/stellar/prod/171122165337-ultimate-india-hotels-wildflower-hall-shimla-in-the-himalayas-an-oberoi-resort.jpg?q=w_1110,c_fill",
+        Image4 : "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2019/07/UMAID-BHAWAN-PALACE-JODHPUR-INDIA.jpg?ssl=1",
+        Image5 : "https://r1imghtlak.mmtcdn.com/daced7747e4411eb9a5e0242ac110002.jpg",
+        Price : "₹ 4,139+ ₹ 497 taxes & fees",
+        Body : "An extravagant hotel renowned for its nightlife and dining, The Park Kolkata is a great choice for fun-loving guests as well as business travellers.",
+        Rating : 4.5,
+        Reviews : 1234,
+        Location_Surroundings : "The property is located on Park Street, a historic road in the city centre. Also known as Mother Teresa Sarani, this neighbourhood is renowned for its excellent dining scene.Staying here enable guests to easily visit top attractions and other parts of the city.With the market in the vicinity, the property has proved to be a good choice for travellers.",
+        Category : "Advertisement",
+        SubCategory : "Hotels",
+    },
+
     {
         ID : '1',
         Title  : "The Park Kolkata",
