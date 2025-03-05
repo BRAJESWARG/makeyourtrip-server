@@ -182,53 +182,47 @@ const ArrayofBlogs = [
 
     {
         ID: '4',
-        Title: "Ginger Goa, Candolim",
+        Title: "JW Marriott Hotel Kolkata",
         Author: "Luxe Queen Room",
         Adults: 1,
         Child: 1,
         Images: [
-            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
-            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
-            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
-            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
-            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
-            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
-            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
-            // {
-            //     ID: 1,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 2,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 3,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 4,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 5,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 6,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 7,
-            //     original: "",
-            //     thumbnail: ""
-            // },
+            {
+                ID: 1,
+                original: "https://www.smallwood-us.com/assets/jw_marriott_holiday_inn_kolkata_mp_urban_by_srss_1_h_wlzJ5ve.jpg",
+                thumbnail: "https://www.smallwood-us.com/assets/jw_marriott_holiday_inn_kolkata_mp_urban_by_srss_1_h_wlzJ5ve.jpg"
+            },
+            {
+                ID: 2,
+                original: "https://api.blessingsonthenet.com/uploads/hotels/aa6da0cc1a84272ac48e50b532255b0f-1692444514233-JW%20Marriott%20Hotel%20Kolkata.webp",
+                thumbnail: "https://api.blessingsonthenet.com/uploads/hotels/aa6da0cc1a84272ac48e50b532255b0f-1692444514233-JW%20Marriott%20Hotel%20Kolkata.webp"
+            },
+            {
+                ID: 3,
+                original: "https://cdn2.advanceinfotech.org/bharatdirectory.in/1200x675/business/5684/jw-marriott-hotel-kolkata-4-1723628160.webp",
+                thumbnail: "https://cdn2.advanceinfotech.org/bharatdirectory.in/1200x675/business/5684/jw-marriott-hotel-kolkata-4-1723628160.webp"
+            },
+            {
+                ID: 4,
+                original: "https://cache.marriott.com/content/dam/marriott-renditions/CCUJW/ccujw-deluxe-king-6377-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=540px:*",
+                thumbnail: "https://cache.marriott.com/content/dam/marriott-renditions/CCUJW/ccujw-deluxe-king-6377-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=540px:*"
+            },
+            {
+                ID: 5,
+                original: "https://images.trvl-media.com/lodging/17000000/16480000/16474800/16474794/57ddf0cb.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                thumbnail: "https://images.trvl-media.com/lodging/17000000/16480000/16474800/16474794/57ddf0cb.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
+            {
+                ID: 6,
+                original: "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://www.cfmedia.vfmleonardo.com/imageRepo/7/0/152/125/172/jw-szxba-apartment-bathroom-12170_Classic-Hor_O/JW-Marriott-Hotel-Shenzhen-Bao%27an-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto",
+                thumbnail: "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://www.cfmedia.vfmleonardo.com/imageRepo/7/0/152/125/172/jw-szxba-apartment-bathroom-12170_Classic-Hor_O/JW-Marriott-Hotel-Shenzhen-Bao%27an-Room.jpg?tr=w-780%2Ch-437%2Cfo-auto"
+            },
+
+            {
+                ID: 7,
+                original: "https://images.trvl-media.com/lodging/2000000/1640000/1637000/1636908/5a56b253.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                thumbnail: "https://images.trvl-media.com/lodging/2000000/1640000/1637000/1636908/5a56b253.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
         ],
         Image1: "https://r1imghtlak.mmtcdn.com/0c04b563-7514-482d-be00-117008c21cff.jpeg?downsize=*:500&crop=990:500",
         Price: "₹ 4,139+ ₹ 497 taxes & fees",
@@ -238,53 +232,46 @@ const ArrayofBlogs = [
     },
     {
         ID: '5',
-        Title: "Ginger Goa, Candolim",
+        Title: "The Oberoi Grand, Kolkata",
         Author: "Luxe Queen Room",
         Adults: 1,
         Child: 2,
         Images: [
-            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
-            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
-            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
-            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
-            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
-            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
-            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
-            // {
-            //     ID: 1,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 2,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 3,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 4,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 5,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 6,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 7,
-            //     original: "",
-            //     thumbnail: ""
-            // },
+            {
+                ID: 1,
+                original: "https://c8.alamy.com/comp/CE6500/oberoi-grand-hotel-calcutta-kolkata-west-bengal-india-bpm-89853-CE6500.jpg",
+                thumbnail: "https://c8.alamy.com/comp/CE6500/oberoi-grand-hotel-calcutta-kolkata-west-bengal-india-bpm-89853-CE6500.jpg"
+            },
+            {
+                ID: 2,
+                original: "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-grand-kolkata/overview/welcome/tog-lobby.jpg?w=724&extension=webp&hash=bdadf21de3b9c3a3139002c7859da4ee",
+                thumbnail: "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-grand-kolkata/overview/welcome/tog-lobby.jpg?w=724&extension=webp&hash=bdadf21de3b9c3a3139002c7859da4ee"
+            },
+            {
+                ID: 3,
+                original: "https://images.trvl-media.com/lodging/1000000/30000/20500/20421/69c68712.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                thumbnail: "https://images.trvl-media.com/lodging/1000000/30000/20500/20421/69c68712.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
+            {
+                ID: 4,
+                original: "https://images.trvl-media.com/lodging/1000000/30000/20500/20421/83899e50.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                thumbnail: "https://images.trvl-media.com/lodging/1000000/30000/20500/20421/83899e50.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
+            {
+                ID: 5,
+                original: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46433042.jpg?k=0243d921740a27ad5f7c16ac9cf8ccc52d27ba3a4355b801421aab75ef1ab91f&o=&hp=1",
+                thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46433042.jpg?k=0243d921740a27ad5f7c16ac9cf8ccc52d27ba3a4355b801421aab75ef1ab91f&o=&hp=1"
+            },
+            {
+                ID: 6,
+                original: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46433285.jpg?k=8d2e5b28b2cd363e92aa1b415f556b0f77266ae7c39dc57c90744b3743130fba&o=&hp=1",
+                thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46433285.jpg?k=8d2e5b28b2cd363e92aa1b415f556b0f77266ae7c39dc57c90744b3743130fba&o=&hp=1"
+            },
+            {
+                ID: 7,
+                original: "https://indiatravelite.com/uploads/oberoihotelkolkata%20(7).jpg",
+                thumbnail: "https://indiatravelite.com/uploads/oberoihotelkolkata%20(7).jpg"
+            },
         ],
         Image1: "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcroyalbengal-kolkata/images/overview-landing-page/overview/desktop/exterior-dusk-with-pond.png",
         Price: "₹ 4,139+ ₹ 497 taxes & fees",
@@ -294,53 +281,46 @@ const ArrayofBlogs = [
     },
     {
         ID: '6',
-        Title: "Ginger Goa, Candolim",
+        Title: "Novotel, Kolkata",
         Author: "Luxe Queen Room",
         Adults: 2,
         Child: 0,
         Images: [
-            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
-            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
-            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
-            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
-            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
-            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
-            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
-            // {
-            //     ID: 1,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 2,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 3,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 4,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 5,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 6,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 7,
-            //     original: "",
-            //     thumbnail: ""
-            // },
+            {
+                ID: 1,
+                original: "https://r1imghtlak.mmtcdn.com/d6729fae80e011e7bfad02755708f0b3.jpg",
+                thumbnail: "https://r1imghtlak.mmtcdn.com/d6729fae80e011e7bfad02755708f0b3.jpg"
+            },
+            {
+                ID: 2,
+                original: "https://www.hotels-of-kolkata.com/data/Pics/OriginalPhoto/15861/1586137/1586137461/novotel-hotel-and-residences-kolkata-pic-61.JPEG",
+                thumbnail: "https://www.hotels-of-kolkata.com/data/Pics/OriginalPhoto/15861/1586137/1586137461/novotel-hotel-and-residences-kolkata-pic-61.JPEG"
+            },
+            {
+                ID: 3,
+                original: "https://www.novotelkolkata.com/wp-content/uploads/sites/87/2024/05/The-Square.jpg",
+                thumbnail: "https://www.novotelkolkata.com/wp-content/uploads/sites/87/2024/05/The-Square.jpg"
+            },
+            {
+                ID: 4,
+                original: "https://photos.hotelbeds.com/giata/original/36/361264/361264a_hb_ro_008.jpg",
+                thumbnail: "https://photos.hotelbeds.com/giata/original/36/361264/361264a_hb_ro_008.jpg"
+            },
+            {
+                ID: 5,
+                original: "https://www.novotelkolkata.com/wp-content/uploads/sites/87/2024/05/The-Square-2.jpg",
+                thumbnail: "https://www.novotelkolkata.com/wp-content/uploads/sites/87/2024/05/The-Square-2.jpg"
+            },
+            {
+                ID: 6,
+                original: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/252005298.jpg?k=17a6f8cbc224b97866edb66fcefaca0f3298d2180d6081fe1f7b908cee966ac7&o=&hp=1",
+                thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/252005298.jpg?k=17a6f8cbc224b97866edb66fcefaca0f3298d2180d6081fe1f7b908cee966ac7&o=&hp=1"
+            },
+            {
+                ID: 7,
+                original: "https://q-xx.bstatic.com/xdata/images/hotel/max500/37095178.jpg?k=d8da183423b24dc2d1164b9f7deb0d680a8fef4094bd32a3d0e97589fad3fd5d&o=",
+                thumbnail: "https://q-xx.bstatic.com/xdata/images/hotel/max500/37095178.jpg?k=d8da183423b24dc2d1164b9f7deb0d680a8fef4094bd32a3d0e97589fad3fd5d&o="
+            },
         ],
         Image1: "https://r1imghtlak.mmtcdn.com/0f00d12b-9701-420b-b944-7cf35bc4d064.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg&downsize=480:336&crop=480:336",
         Price: "₹ 4,139+ ₹ 497 taxes & fees",
@@ -350,53 +330,46 @@ const ArrayofBlogs = [
     },
     {
         ID: '7',
-        Title: "Ginger Goa, Candolim",
+        Title: "Hyatt Regency, Kolkata",
         Author: "Luxe Queen Room",
         Adults: 2,
         Child: 1,
         Images: [
-            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
-            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
-            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
-            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
-            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
-            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
-            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
-            // {
-            //     ID: 1,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 2,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 3,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 4,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 5,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 6,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 7,
-            //     original: "",
-            //     thumbnail: ""
-            // },
+            {
+                ID: 1,
+                original: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/535067984.jpg?k=877c76b6dbd302ac6718682e1b8ce396d871c055e4e13b9d36979891e656c200&o=&hp=1",
+                thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/535067984.jpg?k=877c76b6dbd302ac6718682e1b8ce396d871c055e4e13b9d36979891e656c200&o=&hp=1"
+            },
+            {
+                ID: 2,
+                original: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/582239943.jpg?k=8297ce039468d31989c847e12555d0a9513ec3320dec277693f9b7145904bf31&o=&hp=1",
+                thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/582239943.jpg?k=8297ce039468d31989c847e12555d0a9513ec3320dec277693f9b7145904bf31&o=&hp=1"
+            },
+            {
+                ID: 3,
+                original: "https://d4t7t8y8xqo0t.cloudfront.net/app//resized/818X450/restaurant/600220/restaurant220220906075752.jpg",
+                thumbnail: "https://d4t7t8y8xqo0t.cloudfront.net/app//resized/818X450/restaurant/600220/restaurant220220906075752.jpg"
+            },
+            {
+                ID: 4,
+                original: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/535067920.jpg?k=06d1fc72d9d756d01356e17c276f94b67117874b4ff716b34305e9972e6af7c9&o=&hp=1",
+                thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/535067920.jpg?k=06d1fc72d9d756d01356e17c276f94b67117874b4ff716b34305e9972e6af7c9&o=&hp=1"
+            },
+            {
+                ID: 5,
+                original: "https://www.hotelscombined.in/himg/62/2d/27/ice-56554-120127736-644442.jpg",
+                thumbnail: "https://www.hotelscombined.in/himg/62/2d/27/ice-56554-120127736-644442.jpg"
+            },
+            {
+                ID: 6,
+                original: "https://images.trvl-media.com/lodging/1000000/900000/890500/890428/221c5cde.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                thumbnail: "https://images.trvl-media.com/lodging/1000000/900000/890500/890428/221c5cde.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
+            {
+                ID: 7,
+                original: "https://image.wedmegood.com/resized/720X/uploads/member/1290/1448020261_Best_wedding_venue_in_Kolkata_Hyatt_Regency_Kolkata_wedmegood__7_.jpg",
+                thumbnail: "https://image.wedmegood.com/resized/720X/uploads/member/1290/1448020261_Best_wedding_venue_in_Kolkata_Hyatt_Regency_Kolkata_wedmegood__7_.jpg"
+            },
         ],
         Image1: "https://media.easemytrip.com/media/hotel/shl-2108900068179/external/externalxs9crr.jpg",
         Price: "₹ 4,139+ ₹ 497 taxes & fees",
@@ -406,53 +379,53 @@ const ArrayofBlogs = [
     },
     {
         ID: '8',
-        Title: "Ginger Goa, Candolim",
+        Title: "Raajkutir, Kolkata",
         Author: "Luxe Queen Room",
         Adults: 2,
         Child: 2,
         Images: [
-            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
-            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
-            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
-            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
-            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
-            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
-            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
-            // {
-            //     ID: 1,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 2,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 3,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 4,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 5,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 6,
-            //     original: "",
-            //     thumbnail: ""
-            // },
-            // {
-            //     ID: 7,
-            //     original: "",
-            //     thumbnail: ""
-            // },
+            // { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            // { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            // { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            // { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            // { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            // { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            // { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            {
+                ID: 1,
+                original: "https://www.seleqtionshotels.com/content/dam/seleqtions/kolkata/images/TRKK-courtyardangle2.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+                thumbnail: "https://www.seleqtionshotels.com/content/dam/seleqtions/kolkata/images/TRKK-courtyardangle2.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+            },
+            {
+                ID: 2,
+                original: "https://www.myeventz.co.in/public/uploads/venue/Raajkutir,%20Kolkata%20-%20IHCL%20SeleQtions%20(4).jpg",
+                thumbnail: "https://www.myeventz.co.in/public/uploads/venue/Raajkutir,%20Kolkata%20-%20IHCL%20SeleQtions%20(4).jpg"
+            },
+            {
+                ID: 3,
+                original: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e3/5e/9a/rangmanch.jpg?w=700&h=-1&s=1",
+                thumbnail: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e3/5e/9a/rangmanch.jpg?w=700&h=-1&s=1"
+            },
+            {
+                ID: 4,
+                original: "https://assets.telegraphindia.com/telegraph/2022/Apr/1649359923_new-project-2022-04-08t002309-648.jpg",
+                thumbnail: "https://assets.telegraphindia.com/telegraph/2022/Apr/1649359923_new-project-2022-04-08t002309-648.jpg"
+            },
+            {
+                ID: 5,
+                original: "https://images.trvl-media.com/lodging/35000000/34120000/34119200/34119153/1b9f51d1.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                thumbnail: "https://images.trvl-media.com/lodging/35000000/34120000/34119200/34119153/1b9f51d1.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
+            {
+                ID: 6,
+                original: "https://d4t7t8y8xqo0t.cloudfront.net/app//resized/818X450/restaurant/665363/restaurant020190621044608.jpg",
+                thumbnail: "https://d4t7t8y8xqo0t.cloudfront.net/app//resized/818X450/restaurant/665363/restaurant020190621044608.jpg"
+            },
+            {
+                ID: 7,
+                original: "https://www.ticati.com/img/hotel/14762052s.jpg",
+                thumbnail: "https://www.ticati.com/img/hotel/14762052s.jpg"
+            },
         ],
         Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         Price: "₹ 4,139+ ₹ 497 taxes & fees",
