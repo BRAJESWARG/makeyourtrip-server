@@ -6,6 +6,10 @@ const ArrayofBlogs = [
         Author: "The Park Kolkata",
         Adults: 1,
         Child: 0,
+        // AdultsOptions: [
+        //     { "Adults": 1, "Child": 0 },
+        //     { "Adults": 2, "Child": 0 }
+        // ],
         Image1: "https://r1imghtlak.mmtcdn.com/57663784996211e8bfae0adfcdb46c1c.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=webp",
         Image2: "https://theasiacollective.com/wp-content/uploads/2020/03/Taj-Lake-Palace-2.jpg",
         Image3: "https://media.cnn.com/api/v1/images/stellar/prod/171122165337-ultimate-india-hotels-wildflower-hall-shimla-in-the-himalayas-an-oberoi-resort.jpg?q=w_1110,c_fill",
@@ -19,6 +23,10 @@ const ArrayofBlogs = [
         Category: "Advertisement",
         SubCategory: "Hotels",
     },
+
+
+
+    //KOLKATA
     {
         ID: '1',
         Title: "ITC Royal Bengal",
@@ -64,7 +72,6 @@ const ArrayofBlogs = [
             },
         ],
         Image1: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/604155459.jpg?k=b3840036ac52cffbb4c18842b0a6af2fe151f87f19bdbc0b365ac617ffb32c7b&o=&hp=1",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 18999,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -122,7 +129,6 @@ const ArrayofBlogs = [
             },
         ],
         Image1: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201608/story_647_080816111739.jpg?VersionId=HDTRB0A6tD6z2W_1j6bkiBaIiDF5._CK",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 16499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -184,7 +190,6 @@ const ArrayofBlogs = [
         Image3: "https://r1imghtlak.mmtcdn.com/1f27ba1c73a911ec9d5b0a58a9feac02.jpg",
         Image4: "https://r1imghtlak.mmtcdn.com/ljmisdv1gp6onflmi3jrfln40042.jpg",
         Image5: "https://r1imghtlak.mmtcdn.com/daced7747e4411eb9a5e0242ac110002.jpg",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 12499,
         Body: "An extravagant hotel renowned for its nightlife and dining, The Park Kolkata is a great choice for fun-loving guests as well as business travellers.",
         Rating: 4.5,
@@ -246,7 +251,6 @@ const ArrayofBlogs = [
             },
         ],
         Image1: "https://r1imghtlak.mmtcdn.com/0c04b563-7514-482d-be00-117008c21cff.jpeg?downsize=*:500&crop=990:500",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 11499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -302,7 +306,6 @@ const ArrayofBlogs = [
             },
         ],
         Image1: "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcroyalbengal-kolkata/images/overview-landing-page/overview/desktop/exterior-dusk-with-pond.png",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 10999,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -358,7 +361,6 @@ const ArrayofBlogs = [
             },
         ],
         Image1: "https://r1imghtlak.mmtcdn.com/0f00d12b-9701-420b-b944-7cf35bc4d064.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg&downsize=480:336&crop=480:336",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 8999,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -414,7 +416,6 @@ const ArrayofBlogs = [
             },
         ],
         Image1: "https://media.easemytrip.com/media/hotel/shl-2108900068179/external/externalxs9crr.jpg",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 12499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -433,13 +434,6 @@ const ArrayofBlogs = [
         Adults: 2,
         Child: 2,
         Images: [
-            // { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
-            // { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
-            // { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
-            // { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
-            // { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
-            // { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
-            // { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
             {
                 ID: 1,
                 original: "https://www.seleqtionshotels.com/content/dam/seleqtions/kolkata/images/TRKK-courtyardangle2.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
@@ -477,7 +471,6 @@ const ArrayofBlogs = [
             },
         ],
         Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
-        Price: "₹ 4,139+ ₹ 497 taxes & fees",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -490,6 +483,613 @@ const ArrayofBlogs = [
 
     },
 
+
+
+
+    //MUMBAI
+    {
+        ID: '9',
+        Title: "The Taj Mahal Palace, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 1,
+        Child: 0,
+        Images: [
+            {
+                ID: 1,
+                original: "https://akm-img-a-in.tosshub.com/lingo/images/story/media_bank/202312/657bdd60d1fdd-taj-mumbai-150015589-16x9.png",
+                thumbnail: "https://akm-img-a-in.tosshub.com/lingo/images/story/media_bank/202312/657bdd60d1fdd-taj-mumbai-150015589-16x9.png"
+            },
+            {
+                ID: 2,
+                original: "https://media.cntraveler.com/photos/5dee7549d606100008e741f0/16:9/w_2560,c_limit/The-Taj-Mahal-Palace_2019_Taj-Mahal-Palace,-Mumbai---Corridor-1.jpg",
+                thumbnail: "https://media.cntraveler.com/photos/5dee7549d606100008e741f0/16:9/w_2560,c_limit/The-Taj-Mahal-Palace_2019_Taj-Mahal-Palace,-Mumbai---Corridor-1.jpg"
+            },
+            {
+                ID: 3,
+                original: "https://images.trvl-media.com/lodging/2000000/1360000/1351900/1351876/0bdb2f30.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                thumbnail: "https://images.trvl-media.com/lodging/2000000/1360000/1351900/1351876/0bdb2f30.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
+            {
+                ID: 4,
+                original: "https://r1imghtlak.mmtcdn.com/0b11f7a4a4c911eb90e80242ac110002.png",
+                thumbnail: "https://r1imghtlak.mmtcdn.com/0b11f7a4a4c911eb90e80242ac110002.png"
+            },
+            {
+                ID: 5,
+                original: "https://travellermade.com/wp-content/uploads/2012/07/Taj-Mahal-Mumbai-Board-Room.jpghttps://travellermade.com/wp-content/uploads/2012/07/Taj-Mahal-Mumbai-Board-Room.jpg",
+                thumbnail: "https://travellermade.com/wp-content/uploads/2012/07/Taj-Mahal-Mumbai-Board-Room.jpg"
+            },
+            {
+                ID: 6,
+                original: "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200901081433266594-9778ffc0ee2911ed88e20a58a9feac02.jpg",
+                thumbnail: "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200901081433266594-9778ffc0ee2911ed88e20a58a9feac02.jpg"
+            },
+            {
+                ID: 7,
+                original: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157075106.jpg?k=225255d3005b6146018c356a9443caf0a88921260e8517d355a40700aaa64d70&o=&hp=1",
+                thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157075106.jpg?k=225255d3005b6146018c356a9443caf0a88921260e8517d355a40700aaa64d70&o=&hp=1"
+            },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 22499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '10',
+        Title: "Raajkutir, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 1,
+        Child: 1,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '11',
+        Title: "Raajkutir, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 1,
+        Child: 2,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '12',
+        Title: "Raajkutir, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 2,
+        Child: 0,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '13',
+        Title: "Raajkutir, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 2,
+        Child: 0,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '14',
+        Title: "Raajkutir, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 2,
+        Child: 1,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '15',
+        Title: "Raajkutir, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 2,
+        Child: 1,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '16',
+        Title: "Raajkutir, Mumbai",
+        Author: "Luxe Queen Room",
+        Adults: 2,
+        Child: 2,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Mumbai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '17',
+        Title: "Raajkutir, Dubai",
+        Author: "Luxe Queen Room",
+        Adults: 2,
+        Child: 0,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Dubai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
+    {
+        ID: '18',
+        Title: "Raajkutir, Dubai",
+        Author: "Luxe Queen Room",
+        Adults: 2,
+        Child: 0,
+        Images: [
+            { ID: 1, original: "https://picsum.photos/id/1000/600/300", thumbnail: "https://picsum.photos/id/1000/100/50" },
+            { ID: 2, original: "https://picsum.photos/id/1/600/300", thumbnail: "https://picsum.photos/id/1/100/50" },
+            { ID: 3, original: "https://picsum.photos/id/10/600/300", thumbnail: "https://picsum.photos/id/10/100/50" },
+            { ID: 4, original: "https://picsum.photos/id/100/600/300", thumbnail: "https://picsum.photos/id/100/100/50" },
+            { ID: 5, original: "https://picsum.photos/id/101/600/300", thumbnail: "https://picsum.photos/id/101/100/50" },
+            { ID: 6, original: "https://picsum.photos/id/237/600/300", thumbnail: "https://picsum.photos/id/237/100/50" },
+            { ID: 7, original: "https://picsum.photos/id/1001/600/300", thumbnail: "https://picsum.photos/id/1001/100/50" }
+            // {
+            //     ID: 1,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 2,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 3,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 4,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 5,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 6,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+            // {
+            //     ID: 7,
+            //     original: "",
+            //     thumbnail: ""
+            // },
+        ],
+        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        PricePerNight: 10499,
+        Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
+        Category: "Hotels",
+        SubCategory: "Adults:2, Child:2",
+        City: "Dubai",
+        StarRating: 4.3,
+        Ratings: 5564,
+        Address: "Khar West",
+        NearBy: "2.9 km drive to Lilavati Hospital And Research Centre",
+    },
     {
         ID: '1',
         Category: "Flights",
