@@ -71,7 +71,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/463617199.jpg?k=5bf00a2d59b30e63f1777647c8b29f31f631f41bd8f5afe6e2267eac9ff4ada5&o=&hp=1"
             },
         ],
-        Image1: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/604155459.jpg?k=b3840036ac52cffbb4c18842b0a6af2fe151f87f19bdbc0b365ac617ffb32c7b&o=&hp=1",
+        Thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/604155459.jpg?k=b3840036ac52cffbb4c18842b0a6af2fe151f87f19bdbc0b365ac617ffb32c7b&o=&hp=1",
         PricePerNight: 18999,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -128,7 +128,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://ik.imgkit.net/3vlqs5axxjf/external/https://www.cfmedia.vfmleonardo.com/imageRepo/7/0/111/375/784/Luxury_Room__Bathroom_1__O.jpg?tr=w-922%2Ch-519%2Cfo-auto"
             },
         ],
-        Image1: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201608/story_647_080816111739.jpg?VersionId=HDTRB0A6tD6z2W_1j6bkiBaIiDF5._CK",
+        Thumbnail: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201608/story_647_080816111739.jpg?VersionId=HDTRB0A6tD6z2W_1j6bkiBaIiDF5._CK",
         PricePerNight: 16499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -145,7 +145,7 @@ const ArrayofBlogs = [
     {
         ID: '3',
         Title: "The Park Kolkata",
-        Author: "The Park Kolkata",
+        Author: "Luxe Queen Room",
         Adults: 1,
         Child: 0,
         Images: [
@@ -185,7 +185,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://b.zmtcdn.com/data/pictures/8/21508/8b76bc187af38aca0b55c290d69a5ebf.jpg?fit=around|750:500&crop=750:500;*,*"
             },
         ],
-        Image1: "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200704121625445530-22d98020-7e00-45ee-a1c9-39ec7e084d5f.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg&downsize=480:336&crop=480:336",
+        Thumbnail: "https://www.theparkhotels.com/images/site-specific/kolkata/home/HERO-FACADE-NIGHT.jpg",
         Image2: "https://r1imghtlak.mmtcdn.com/61e5b06e2e8f11e49f10daf4768ad8d9.jfif",
         Image3: "https://r1imghtlak.mmtcdn.com/1f27ba1c73a911ec9d5b0a58a9feac02.jpg",
         Image4: "https://r1imghtlak.mmtcdn.com/ljmisdv1gp6onflmi3jrfln40042.jpg",
@@ -250,7 +250,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://images.trvl-media.com/lodging/2000000/1640000/1637000/1636908/5a56b253.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
             },
         ],
-        Image1: "https://r1imghtlak.mmtcdn.com/0c04b563-7514-482d-be00-117008c21cff.jpeg?downsize=*:500&crop=990:500",
+        Thumbnail: "https://www.smallwood-us.com/assets/jw_marriott_holiday_inn_kolkata_mp_urban_by_srss_1_h_wlzJ5ve.jpg",
         PricePerNight: 11499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -305,7 +305,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://indiatravelite.com/uploads/oberoihotelkolkata%20(7).jpg"
             },
         ],
-        Image1: "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcroyalbengal-kolkata/images/overview-landing-page/overview/desktop/exterior-dusk-with-pond.png",
+        Thumbnail: "https://c8.alamy.com/comp/CE6500/oberoi-grand-hotel-calcutta-kolkata-west-bengal-india-bpm-89853-CE6500.jpg",
         PricePerNight: 10999,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -360,7 +360,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://q-xx.bstatic.com/xdata/images/hotel/max500/37095178.jpg?k=d8da183423b24dc2d1164b9f7deb0d680a8fef4094bd32a3d0e97589fad3fd5d&o="
             },
         ],
-        Image1: "https://r1imghtlak.mmtcdn.com/0f00d12b-9701-420b-b944-7cf35bc4d064.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg&downsize=480:336&crop=480:336",
+        Thumbnail: "https://r1imghtlak.mmtcdn.com/d6729fae80e011e7bfad02755708f0b3.jpg",
         PricePerNight: 8999,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -415,7 +415,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://image.wedmegood.com/resized/720X/uploads/member/1290/1448020261_Best_wedding_venue_in_Kolkata_Hyatt_Regency_Kolkata_wedmegood__7_.jpg"
             },
         ],
-        Image1: "https://media.easemytrip.com/media/hotel/shl-2108900068179/external/externalxs9crr.jpg",
+        Thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/535067984.jpg?k=877c76b6dbd302ac6718682e1b8ce396d871c055e4e13b9d36979891e656c200&o=&hp=1",
         PricePerNight: 12499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -470,7 +470,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://www.ticati.com/img/hotel/14762052s.jpg"
             },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.seleqtionshotels.com/content/dam/seleqtions/kolkata/images/TRKK-courtyardangle2.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -530,7 +530,7 @@ const ArrayofBlogs = [
                 thumbnail: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157075106.jpg?k=225255d3005b6146018c356a9443caf0a88921260e8517d355a40700aaa64d70&o=&hp=1"
             },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://akm-img-a-in.tosshub.com/lingo/images/story/media_bank/202312/657bdd60d1fdd-taj-mumbai-150015589-16x9.png",
         PricePerNight: 22499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -591,7 +591,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -652,7 +652,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -713,7 +713,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -774,7 +774,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -835,7 +835,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -896,7 +896,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -957,7 +957,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -1018,7 +1018,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
@@ -1079,7 +1079,7 @@ const ArrayofBlogs = [
             //     thumbnail: ""
             // },
         ],
-        Image1: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
+        Thumbnail: "https://www.thelalit.com/wp-content/uploads/2021/07/Kolkata-Facade-M.jpg",
         PricePerNight: 10499,
         Body: "way from the pristine Candolim Beach. The hotel offers well-appointed rooms, contemporary amenities, and a warm, welcoming ambiance, making it ideal for both leisure and business travelers. Guests can enjoy delicious dining options, a well-equipped fitness center, and seamless connectivity. With its strategic location near popular tourist spots, Ginger Hotel Candolim provides easy access to Goa's rich cultural and natural attractions. It’s the perfect blend of comfort, convenience, and affordability for a memorable stay.",
         Category: "Hotels",
